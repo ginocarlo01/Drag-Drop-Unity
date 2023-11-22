@@ -17,10 +17,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Biology/EnumBiology2.unity
     guid: d08d27201912d1e44bddd6c7a0fedc48
-  - enabled: 1
-    path: Assets/Scenes/Biology/EnumBiology2 es.unity
-    guid: 65225bf73d3af554da363917d0520c2c
-  - enabled: 1
-    path: Assets/Scenes/Biology/EnumBiology2 en.unity
-    guid: e63e4535790ff4e4ba149a4ff8ec3b6f
   m_configObjects: {}
