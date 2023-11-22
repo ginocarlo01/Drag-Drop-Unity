@@ -90,7 +90,7 @@ public class DragDrop : MonoBehaviour
         Debug.Log("Acertos : " + rights);
         if(rights >= PanelAnswers.Length)
         {
-            pa.PlaySFX(3);
+            //pa.PlaySFX(3);
             uiMan.UpdateLose(false);
             uiMan.UpdateWin(true);
             canReduceTime = false;
@@ -133,7 +133,7 @@ public class DragDrop : MonoBehaviour
 
     private void LoseLife()
     {
-        pa.PlaySFX(1);
+        //pa.PlaySFX(1);
         if (!infinityLife)
         {
             playerCurrentLife--;
